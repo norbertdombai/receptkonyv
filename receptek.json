@@ -1,0 +1,16 @@
+[
+{
+    "neve":"Somlói galuska",
+    "elkeszitesiido":30,
+    "eleresiut":"somloi.jpg",
+    "leiras":"igy kell elkészíteni a somlóit",
+    "hozzavalok":[{"tojás":6},{"liszt":0.5},{"csokoládé":1}]
+},
+{
+    "neve":"zsíros kenyér",
+    "elkeszitesiido":3,
+    "eleresiut":"zsirosk.jpg",
+    "leiras":"igy kell elkészíteni a zsíros kenyeret",
+    "hozzavalok":[{"kenyér":0.25},{"zsír":0.5}]   
+}
+]

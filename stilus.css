@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+main {
+    max-width:800px;
+    margin:auto;
+    
+}
+
+body, main, header, article, footer, section {
+    padding:10px;
+    border:1px solid gray;
+    
+}
+article, section {background:whitesmoke;}
+
+header,footer {background:#f1f8ca;}
+
+table {
+    background:#fff6b4;
+    
+    
+}
+
+article h2 {
+    background: red;
+}
