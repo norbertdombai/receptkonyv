@@ -74,7 +74,7 @@ function tablazatbaKiir() {
 
 function csakFejlec() {
     $("article").append("<table></table>");
-    $("article table").append("<tr id='0'><th>Név</th><th>Elkészítési idő</th><th>Elérési út</th><th>Leírás</th><th>Hozzávalók</th></tr>");
+    $("article table").append("<tr id='0'><th>Név</th><th>Elkészítési idő</th><th>Elérési út</th><th>Leírás</th><th>Étel</th><th>Ár</th></tr>");
 
 
 

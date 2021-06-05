@@ -4,13 +4,32 @@
     "elkeszitesiido":30,
     "eleresiut":"somloi.jpg",
     "leiras":"igy kell elkészíteni a somlóit",
-    "hozzavalok":[{"tojás":6},{"liszt":0.5},{"csokoládé":1}]
+    "étel típusa":"desszert",
+    "ár": "600 Ft"
 },
 {
     "neve":"zsíros kenyér",
     "elkeszitesiido":3,
     "eleresiut":"zsirosk.jpg",
     "leiras":"igy kell elkészíteni a zsíros kenyeret",
-    "hozzavalok":[{"kenyér":0.25},{"zsír":0.5}]   
-}
+    "étel típusa":"vacsora",
+    "ár": "200 Ft"    
+},
+{
+    "neve":"margherita pizza",
+    "elkeszitesiido":180,
+    "eleresiut":"pizza.jpg",
+    "leiras":"igy kell elkészíteni a margherita pizzát",
+    "étel típusa":"főétel",
+    "ár": "1800 Ft"
+},
+    
+    {"neve":"rántott gomba",
+    "elkeszitesiido":60,
+    "eleresiut":"gomba.jpg",
+    "leiras":"igy kell elkészíteni a rántott gombát",
+    "étel típusa":"főétel",
+    "ár": "1000 Ft"    
+    }
+    
 ]
